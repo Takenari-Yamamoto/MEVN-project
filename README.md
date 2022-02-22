@@ -1,6 +1,6 @@
-# nuxt-template
+# 概要
 
-自分用の Nuxt のボイラープレート
+MongoDB / Express / Vue （Nuxt） / Node.js のプロジェクト
 
 ## Build Setup
 
